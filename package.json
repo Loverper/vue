@@ -9,7 +9,7 @@
   },
   "repository": "https://github.com/fishenal/Vuejs-SalePlatform",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "vue": "^2.0.1",
     "vue-date-picker": "^2.5.0",
     "vue-resource": "^1.5.1",
